@@ -7,3 +7,13 @@ C:\Users\tanol.DYLANE\OneDrive - MONCCNB\2CCNB\Session1\C#.NET\Devoirs\TypesMang
 C:\Users\tanol.DYLANE\OneDrive - MONCCNB\2CCNB\Session1\C#.NET\Devoirs\TypesManga\obj\Debug\TypesManga.csproj.CoreCompileInputs.cache
 C:\Users\tanol.DYLANE\OneDrive - MONCCNB\2CCNB\Session1\C#.NET\Devoirs\TypesManga\obj\Debug\TypesManga.exe
 C:\Users\tanol.DYLANE\OneDrive - MONCCNB\2CCNB\Session1\C#.NET\Devoirs\TypesManga\obj\Debug\TypesManga.pdb
+C:\Users\kengm\Desktop\cour\AUTOMNES 2024\PROG1236\TypeManga\bin\Debug\TypesManga.exe.config
+C:\Users\kengm\Desktop\cour\AUTOMNES 2024\PROG1236\TypeManga\bin\Debug\TypesManga.exe
+C:\Users\kengm\Desktop\cour\AUTOMNES 2024\PROG1236\TypeManga\bin\Debug\TypesManga.pdb
+C:\Users\kengm\Desktop\cour\AUTOMNES 2024\PROG1236\TypeManga\obj\Debug\TypesManga.csproj.AssemblyReference.cache
+C:\Users\kengm\Desktop\cour\AUTOMNES 2024\PROG1236\TypeManga\obj\Debug\TypesManga.TypesMangaForm.resources
+C:\Users\kengm\Desktop\cour\AUTOMNES 2024\PROG1236\TypeManga\obj\Debug\TypesManga.Properties.Resources.resources
+C:\Users\kengm\Desktop\cour\AUTOMNES 2024\PROG1236\TypeManga\obj\Debug\TypesManga.csproj.GenerateResource.cache
+C:\Users\kengm\Desktop\cour\AUTOMNES 2024\PROG1236\TypeManga\obj\Debug\TypesManga.csproj.CoreCompileInputs.cache
+C:\Users\kengm\Desktop\cour\AUTOMNES 2024\PROG1236\TypeManga\obj\Debug\TypesManga.exe
+C:\Users\kengm\Desktop\cour\AUTOMNES 2024\PROG1236\TypeManga\obj\Debug\TypesManga.pdb

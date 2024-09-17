@@ -1,21 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\tanol.DYLANE\\OneDrive - MONCCNB\\2CCNB\\Session1\\C#.NET\\Devoirs\\TypesManga\\",
+  "WorkspaceRootPath": "C:\\Users\\kengm\\Desktop\\cour\\AUTOMNES 2024\\PROG1236\\TypeManga\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B3965183-1D21-42DE-8DF9-4249C8426FFD}|TypesManga.csproj|c:\\users\\tanol.dylane\\onedrive - monccnb\\2ccnb\\session1\\c#.net\\devoirs\\typesmanga\\typesmangaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B3965183-1D21-42DE-8DF9-4249C8426FFD}|TypesManga.csproj|C:\\Users\\kengm\\Desktop\\cour\\AUTOMNES 2024\\PROG1236\\TypeManga\\typesmangaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B3965183-1D21-42DE-8DF9-4249C8426FFD}|TypesManga.csproj|solutionrelative:typesmangaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3965183-1D21-42DE-8DF9-4249C8426FFD}|TypesManga.csproj|c:\\users\\tanol.dylane\\onedrive - monccnb\\2ccnb\\session1\\c#.net\\devoirs\\typesmanga\\typesmangaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B3965183-1D21-42DE-8DF9-4249C8426FFD}|TypesManga.csproj|c:\\users\\kengm\\desktop\\cour\\automnes 2024\\prog1236\\typemanga\\typesmangaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3965183-1D21-42DE-8DF9-4249C8426FFD}|TypesManga.csproj|solutionrelative:typesmangaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|TypesManga||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3965183-1D21-42DE-8DF9-4249C8426FFD}|TypesManga.csproj|c:\\users\\tanol.dylane\\onedrive - monccnb\\2ccnb\\session1\\c#.net\\devoirs\\typesmanga\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
-      "RelativeMoniker": "D:0:0:{B3965183-1D21-42DE-8DF9-4249C8426FFD}|TypesManga.csproj|solutionrelative:properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,44 +18,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TypesMangaForm.cs",
-              "DocumentMoniker": "C:\\Users\\tanol.DYLANE\\OneDrive - MONCCNB\\2CCNB\\Session1\\C#.NET\\Devoirs\\TypesManga\\TypesMangaForm.cs",
-              "RelativeDocumentMoniker": "TypesMangaForm.cs",
-              "ToolTip": "C:\\Users\\tanol.DYLANE\\OneDrive - MONCCNB\\2CCNB\\Session1\\C#.NET\\Devoirs\\TypesManga\\TypesMangaForm.cs",
-              "RelativeToolTip": "TypesMangaForm.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAawBQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T10:44:24.482Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TypesManga",
-              "DocumentMoniker": "C:\\Users\\tanol.DYLANE\\OneDrive - MONCCNB\\2CCNB\\Session1\\C#.NET\\Devoirs\\TypesManga\\TypesManga.csproj",
-              "RelativeDocumentMoniker": "TypesManga.csproj",
-              "ToolTip": "C:\\Users\\tanol.DYLANE\\OneDrive - MONCCNB\\2CCNB\\Session1\\C#.NET\\Devoirs\\TypesManga\\TypesManga.csproj",
-              "RelativeToolTip": "TypesManga.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-09-15T10:21:25.337Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "TypesMangaForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\tanol.DYLANE\\OneDrive - MONCCNB\\2CCNB\\Session1\\C#.NET\\Devoirs\\TypesManga\\TypesMangaForm.cs",
+              "DocumentMoniker": "C:\\Users\\kengm\\Desktop\\cour\\AUTOMNES 2024\\PROG1236\\TypeManga\\TypesMangaForm.cs",
               "RelativeDocumentMoniker": "TypesMangaForm.cs",
-              "ToolTip": "C:\\Users\\tanol.DYLANE\\OneDrive - MONCCNB\\2CCNB\\Session1\\C#.NET\\Devoirs\\TypesManga\\TypesMangaForm.cs [Design]",
+              "ToolTip": "C:\\Users\\kengm\\Desktop\\cour\\AUTOMNES 2024\\PROG1236\\TypeManga\\TypesMangaForm.cs [Design]",
               "RelativeToolTip": "TypesMangaForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-15T10:16:47.18Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TypesMangaForm.cs",
+              "DocumentMoniker": "C:\\Users\\kengm\\Desktop\\cour\\AUTOMNES 2024\\PROG1236\\TypeManga\\TypesMangaForm.cs",
+              "RelativeDocumentMoniker": "TypesMangaForm.cs",
+              "ToolTip": "C:\\Users\\kengm\\Desktop\\cour\\AUTOMNES 2024\\PROG1236\\TypeManga\\TypesMangaForm.cs",
+              "RelativeToolTip": "TypesMangaForm.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T10:44:24.482Z",
+              "EditorCaption": ""
             }
           ]
         }
